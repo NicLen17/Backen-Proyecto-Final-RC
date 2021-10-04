@@ -1,4 +1,4 @@
-// Importación de módulos
+// Importación de móduloss
 require('dotenv').config();
 const express = require('express');
 const mongoose = require('mongoose');
